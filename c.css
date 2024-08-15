@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Ruqaa';
+  src: url('fonts/ruqaa.ttf') format('truetype');
+}
+
+h4 {
+  font-family: 'Ruqaa', serif; /* استخدم اسم الخط المخصص */
+  font-weight: normal; /* تأكد من استخدام الوزن الصحيح */
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.value {
+  font-size: 6rem;
+}
+
+.c button {
+  padding: 10px;
+  margin-top: 20px; /* تصحيح القيمة */
+}
